@@ -1,4 +1,4 @@
-# A security camera system leveraging the Google Vision AI API
+### Security camera system leveraging the Google Vision AI API
 
 This diagram illustrates the workflow of this system.
 
