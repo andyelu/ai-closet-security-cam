@@ -1,4 +1,7 @@
-## Security camera system leveraging the Google Vision AI API
+# Security camera system leveraging the Google Vision AI API
+
+## Demo w/ explanation
+https://github.com/andyelu/ai-closet-security-cam/assets/126619706/b67678c7-c85e-4c96-ac0b-a753095dfc5b
 
 This diagram illustrates the workflow of this system.
 
@@ -17,3 +20,9 @@ Object Detection: This image is processed through the Google Cloud Vision AI API
 Storage and Logging: If a human is detected by the Vision AI, the image is stored in an Amazon S3 bucket and recorded in an SQLite database.
 
 Notification: When that happens, an email with the image URL is sent to the user.
+
+
+
+
+
+
