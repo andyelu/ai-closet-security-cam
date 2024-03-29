@@ -1,3 +1,5 @@
+# A security camera system leveraging the Google Vision AI API
+
 This diagram illustrates the workflow of this system.
 
 ![Untitled drawing](https://github.com/andyelu/ai-closet-security-cam/assets/126619706/f845beed-502b-49c9-a1c4-b7d2b5224e16)
